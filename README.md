@@ -15,7 +15,7 @@ Detta repository är en del av en laboration i versionshantering. Målet är att
 
 ## Klona repo
 
-För att klona detta repository till din dator, använd följande kommando:
+För att klona detta repository till lokal dator, använd följande kommando i terminalen:
 
 ```bash
 git clone https://github.com/ardalan-sale/git-readme-lab.git
